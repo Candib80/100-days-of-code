@@ -52,3 +52,21 @@
 **Thoughts** Going pretty good so far
 
 **Link(s) to work**
+
+
+### Day 6: April 24, 2018
+
+**Today's Progress**: Started and finished the tribute page for FreeCodeCamp on CodePen.io.  Started on the Portfolio page...
+
+**Thoughts** Bootstrap is awesome!
+
+**Link(s) to work**  https://codepen.io/candib80/full/QryOvb/
+
+
+### Day 7: April 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
