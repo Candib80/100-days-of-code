@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: April 18, 2018
-##### (delete me or comment me out)
 
 **Today's Progress**: Started freeCodeCamp's Front End Development Certification.
 
